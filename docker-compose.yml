@@ -1,0 +1,16 @@
+# Optional: start PostgreSQL without installing it.   docker compose up -d
+services:
+  db:
+    image: postgres:16
+    container_name: cosmic-explorer-db
+    environment:
+      POSTGRES_DB: cosmic_explorer
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - cosmic-explorer-data:/var/lib/postgresql/data
+
+volumes:
+  cosmic-explorer-data:

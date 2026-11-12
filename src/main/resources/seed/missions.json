@@ -1,0 +1,122 @@
+[
+ {
+  "y": 1957,
+  "n": "Sputnik 1",
+  "by": "World",
+  "t": "The Soviet Union launched the first artificial satellite on 4 October 1957, starting the space age."
+ },
+ {
+  "y": 1961,
+  "n": "Vostok 1",
+  "by": "World",
+  "t": "Yuri Gagarin became the first human in space on 12 April 1961 and orbited Earth once."
+ },
+ {
+  "y": 1969,
+  "n": "Apollo 11",
+  "by": "World",
+  "t": "Neil Armstrong and Buzz Aldrin landed on the Moon on 20 July 1969."
+ },
+ {
+  "y": 1975,
+  "n": "Aryabhata",
+  "by": "India",
+  "t": "India’s first satellite, built by ISRO and launched on a Soviet rocket."
+ },
+ {
+  "y": 1977,
+  "n": "Voyager 1 and 2",
+  "by": "World",
+  "t": "Two NASA probes that toured the outer planets. Voyager 1 entered interstellar space in 2012 and is the most distant human-made object.",
+  "body": "neptune"
+ },
+ {
+  "y": 1984,
+  "n": "Rakesh Sharma in space",
+  "by": "India",
+  "t": "Rakesh Sharma became the first Indian in space, flying on the Soviet Soyuz T-11 in April 1984."
+ },
+ {
+  "y": 1990,
+  "n": "Hubble Space Telescope",
+  "by": "World",
+  "t": "Launched in 1990, it has taken some of the most detailed images of distant galaxies and nebulae."
+ },
+ {
+  "y": 2008,
+  "n": "Chandrayaan-1",
+  "by": "India",
+  "t": "India’s first Moon mission, launched in October 2008. Its instruments helped confirm water molecules on the lunar surface."
+ },
+ {
+  "y": 2012,
+  "n": "Curiosity rover",
+  "by": "World",
+  "t": "NASA’s rover landed in Gale Crater on Mars in August 2012 and found that the area once had conditions suited to life.",
+  "body": "mars"
+ },
+ {
+  "y": 2013,
+  "n": "Mangalyaan (Mars Orbiter Mission)",
+  "by": "India",
+  "t": "Launched on 5 November 2013 and reached Mars orbit in September 2014. India became the first country to reach Mars orbit on its first attempt.",
+  "body": "mars"
+ },
+ {
+  "y": 2015,
+  "n": "New Horizons at Pluto",
+  "by": "World",
+  "t": "NASA’s probe flew past Pluto on 14 July 2015 and sent the first close-up images of the dwarf planet.",
+  "body": "pluto"
+ },
+ {
+  "y": 2015,
+  "n": "AstroSat",
+  "by": "India",
+  "t": "India’s first dedicated space observatory, launched in September 2015 to study stars, galaxies and black holes in several kinds of light."
+ },
+ {
+  "y": 2019,
+  "n": "Chandrayaan-2",
+  "by": "India",
+  "t": "The orbiter works well, but the Vikram lander lost contact during its final descent in September 2019."
+ },
+ {
+  "y": 2021,
+  "n": "James Webb Space Telescope",
+  "by": "World",
+  "t": "Launched on 25 December 2021. It looks at the universe in infrared and studies the earliest galaxies and the atmospheres of exoplanets."
+ },
+ {
+  "y": 2023,
+  "n": "Chandrayaan-3",
+  "by": "India",
+  "t": "Launched on 14 July 2023. On 23 August 2023 the Vikram lander touched down near the Moon’s south pole, making India the fourth country to land softly on the Moon."
+ },
+ {
+  "y": 2023,
+  "n": "Aditya-L1",
+  "by": "India",
+  "t": "India’s first solar observatory, launched on 2 September 2023. It orbits the Sun–Earth L1 point, about 1.5 million km from Earth.",
+  "body": "sun"
+ },
+ {
+  "y": 2025,
+  "n": "SpaDeX docking",
+  "by": "India",
+  "t": "Two ISRO satellites docked in orbit in January 2025, making India the fourth country to achieve space docking."
+ },
+ {
+  "y": 2025,
+  "n": "Shubhanshu Shukla on the ISS",
+  "by": "India",
+  "t": "Group Captain Shubhanshu Shukla flew to the International Space Station on the Axiom-4 mission in 2025."
+ },
+ {
+  "y": 2027,
+  "n": "Gaganyaan (planned)",
+  "by": "India",
+  "t": "India’s planned first crewed spaceflight. ISRO’s chief has pointed to 2027 for the crewed launch, after uncrewed test flights. Dates have moved before and may move again.",
+  "plan": true
+ }
+]

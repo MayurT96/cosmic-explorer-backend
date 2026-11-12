@@ -1,0 +1,134 @@
+[
+ {
+  "q": "Which planet is closest to the Sun?",
+  "o": [
+   "Mercury",
+   "Venus",
+   "Mars",
+   "Earth"
+  ],
+  "a": 0,
+  "e": "Mercury orbits about 57.9 million km from the Sun."
+ },
+ {
+  "q": "Which planet is the hottest?",
+  "o": [
+   "Mercury",
+   "Jupiter",
+   "Venus",
+   "Mars"
+  ],
+  "a": 2,
+  "e": "Venus’s thick carbon dioxide atmosphere traps heat and keeps the surface near 464 °C."
+ },
+ {
+  "q": "Which planet is best known for its bright, wide rings?",
+  "o": [
+   "Jupiter",
+   "Saturn",
+   "Neptune",
+   "Mars"
+  ],
+  "a": 1,
+  "e": "Saturn’s rings are made mostly of water ice and are easy to see in a small telescope."
+ },
+ {
+  "q": "What is the largest planet in the Solar System?",
+  "o": [
+   "Saturn",
+   "Neptune",
+   "Earth",
+   "Jupiter"
+  ],
+  "a": 3,
+  "e": "Jupiter is about 11 times wider than Earth."
+ },
+ {
+  "q": "Which planet spins on its side, tilted about 98 degrees?",
+  "o": [
+   "Uranus",
+   "Mars",
+   "Venus",
+   "Neptune"
+  ],
+  "a": 0,
+  "e": "Uranus rolls around the Sun almost on its side."
+ },
+ {
+  "q": "About how long does sunlight take to reach Earth?",
+  "o": [
+   "8 seconds",
+   "8 hours",
+   "8 days",
+   "8 minutes"
+  ],
+  "a": 3,
+  "e": "It takes about 8 minutes and 20 seconds."
+ },
+ {
+  "q": "What is a habitable zone?",
+  "o": [
+   "An area full of asteroids",
+   "Distances from a star where liquid water could exist",
+   "The region around a black hole",
+   "Where comets are born"
+  ],
+  "a": 1,
+  "e": "It is the range of distances where a planet could have liquid water on its surface. It does not mean the planet has life."
+ },
+ {
+  "q": "Which world was moved from planet to dwarf planet in 2006?",
+  "o": [
+   "Ceres",
+   "Mars",
+   "Pluto",
+   "Titan"
+  ],
+  "a": 2,
+  "e": "Pluto does not clear its orbit of other objects, so the IAU classed it as a dwarf planet."
+ },
+ {
+  "q": "Which of these is a hot Jupiter?",
+  "o": [
+   "Proxima Centauri b",
+   "51 Pegasi b",
+   "TRAPPIST-1 e",
+   "Kepler-452 b"
+  ],
+  "a": 1,
+  "e": "51 Pegasi b was the first hot Jupiter found around a Sun-like star, in 1995."
+ },
+ {
+  "q": "What is Jupiter’s Great Red Spot?",
+  "o": [
+   "A giant storm",
+   "A volcano",
+   "A crater",
+   "A sea"
+  ],
+  "a": 0,
+  "e": "It is a storm bigger than Earth that has lasted for centuries."
+ },
+ {
+  "q": "What does a light-year measure?",
+  "o": [
+   "Time",
+   "Brightness",
+   "Distance",
+   "Speed of a star"
+  ],
+  "a": 2,
+  "e": "A light-year is the distance light travels in a year, about 9.46 trillion km."
+ },
+ {
+  "q": "Which planet has Olympus Mons, the tallest known volcano?",
+  "o": [
+   "Venus",
+   "Mars",
+   "Earth",
+   "Mercury"
+  ],
+  "a": 1,
+  "e": "Olympus Mons on Mars is about 22 km high."
+ }
+]
